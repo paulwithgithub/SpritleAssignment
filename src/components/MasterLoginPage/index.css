@@ -1,0 +1,57 @@
+.mlp-main-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #7373d1;
+  height: 100vh;
+}
+
+.m-login-card {
+  background-color: white;
+  height: 320px;
+  width: 350px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+
+  padding: 10px;
+}
+
+.username-input {
+  margin-top: 0px;
+  padding: 5px;
+}
+
+.user-labels {
+  margin-bottom: 0px;
+  margin-top: 5px;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.mlp-signin-btn {
+  background-color: #2b8fff;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  width: 80px;
+  padding: 5px;
+  color: white;
+  align-self: center;
+  margin-top: 15px;
+  cursor: pointer;
+  height: 30px;
+}
+.logo-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #44484d;
+}
+.masters-icon {
+  width: 70px;
+  align-self: center;
+}
+.master-login-heading {
+  font-size: 25px;
+}

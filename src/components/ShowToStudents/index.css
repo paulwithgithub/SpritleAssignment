@@ -1,0 +1,15 @@
+.student-item {
+  background-color: #e6fffe;
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 18%;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding: 5px;
+  min-height: 100px;
+}
+
+.student-heading {
+  color: #1f3a48;
+  font-size: 17px;
+}

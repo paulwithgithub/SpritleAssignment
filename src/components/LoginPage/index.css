@@ -1,0 +1,51 @@
+.login-page-main-bg {
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.icons-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.master-login-button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.student-login-button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.master-login-icon {
+  width: 150px;
+}
+
+.student-login-icon {
+  width: 190px;
+  margin-left: 1px;
+  border-radius: 150px;
+  margin-bottom: 8x;
+}
+.heading {
+  font-size: 30px;
+}
+.master-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.student-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

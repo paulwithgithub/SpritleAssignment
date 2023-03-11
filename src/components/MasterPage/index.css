@@ -1,0 +1,57 @@
+.master-main-bg {
+  padding: 10px;
+  background-color: #d88acc;
+  height: 100vh;
+}
+
+.heading-logout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logout-btn {
+  background-color: #217ee7;
+  padding: 8px;
+
+  width: 60px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 3px;
+  color: white;
+  margin-right: 10px;
+}
+.master-main-heading {
+  color: #362a44;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.master-question-heading {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.add-button {
+  color: white;
+  background-color: #1c89f5;
+  padding: 6px;
+  width: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+.input-box {
+  width: 30%;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+.questions-list {
+  padding-left: 0px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}

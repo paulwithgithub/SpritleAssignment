@@ -1,0 +1,17 @@
+.student-main-bg {
+  padding: 10px;
+  background-color: #8ee4e6;
+  height: 100vh;
+}
+
+.student-main-heading {
+  color: #225860;
+  font-size: 25px;
+}
+
+.student-question-list {
+  padding-left: 0px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
